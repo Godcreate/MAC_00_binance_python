@@ -1,0 +1,49 @@
+2024-11-11 05:52:06,031 - TradingBot - INFO - Starting testnet trading bot with multiple strategies
+2024-11-11 05:52:08,219 - TradingBot - INFO - All strategies executed successfully
+2024-11-11 19:54:33,727 - TradingBot - INFO - Starting testnet trading bot with multiple strategies
+2024-11-11 19:54:36,458 - TradingBot - INFO - All strategies executed successfully
+2024-11-11 20:33:27,097 - TradingBot - ERROR - Data file not found at C:/DEMO/DEMO_01_binance_python/data/your_data.csv
+2024-11-11 20:36:11,128 - TradingBot - ERROR - Data file not found at C:/DEMO/DEMO_01_binance_python/data/your_data.csv
+2024-11-11 20:37:31,953 - TradingBot - ERROR - Data file not found at C:/DEMO/DEMO_01_binance_python/data/BTC_USDT_data.csv
+2024-11-11 20:39:41,799 - TradingBot - ERROR - Data file not found at C:/DEMO/DEMO_01_binance_python/data/BTC_USDT_data.csv
+2024-11-11 20:44:05,227 - TradingBot - ERROR - Data file not found at C:/DEMO/DEMO_01_binance_python/data/BTC_USDT_data.csv
+2024-11-11 21:17:42,416 - TradingBot - INFO - Files in data directory: ['data_fetcher.py', '__pycache__']
+2024-11-11 21:17:42,424 - TradingBot - ERROR - Data file not found at C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 21:25:26,059 - TradingBot - ERROR - Data file not found at C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 21:34:07,842 - TradingBot - INFO - Loaded 1000 rows of data from C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 21:34:07,875 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 21:34:07,906 - TradingBot - ERROR - An error occurred while executing strategies: 'TestnetOrderExecutor' object has no attribute 'sell'
+2024-11-11 21:37:34,858 - TradingBot - INFO - Loaded 1000 rows of data from C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 21:37:34,879 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 21:37:34,908 - TradingBot - ERROR - An error occurred while executing strategies: 'dmr_avg12'
+2024-11-11 21:44:17,500 - TradingBot - INFO - Loaded 1000 rows of data from C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 21:44:17,517 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 21:45:06,297 - TradingBot - INFO - All strategies executed successfully
+2024-11-11 21:48:51,545 - TradingBot - INFO - Loaded 1000 rows of data from C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 21:48:51,561 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 21:50:02,056 - TradingBot - INFO - All strategies executed successfully
+2024-11-11 21:52:18,643 - TradingBot - INFO - Loaded 1000 rows of data from C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 21:52:18,661 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 21:53:35,055 - TradingBot - INFO - All strategies executed successfully
+2024-11-11 21:58:17,924 - TradingBot - INFO - Loaded 1000 rows of data from C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 21:58:17,939 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 21:59:46,921 - TradingBot - INFO - All strategies executed successfully
+2024-11-11 22:06:22,557 - TradingBot - INFO - Loaded 1000 rows of data from C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 22:06:22,674 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 22:07:50,460 - TradingBot - INFO - All strategies executed successfully
+2024-11-11 22:21:24,429 - TradingBot - INFO - Loaded 1000 rows of data from C:/DEMO/DEMO_01_binance_python/data/ETH_USDT_data.csv
+2024-11-11 22:21:24,557 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 22:21:24,579 - TradingBot - INFO - All strategies executed successfully
+2024-11-11 22:24:34,984 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2024-11-11 22:24:37,955 - TradingBot - INFO - Updated market data at 2024-11-11 22:24:34.984904
+2024-11-11 22:24:37,975 - TradingBot - INFO - Strategy execution completed
+2024-11-11 22:24:37,975 - TradingBot - INFO - Strategy execution completed
+2024-11-11 22:24:37,975 - TradingBot - INFO - Waiting 2125 seconds for next update
+2024-11-11 22:37:22,284 - TradingBot - INFO - Bot stopped by user
+2024-11-11 22:37:22,284 - TradingBot - INFO - Bot stopped
+2025-05-18 18:34:36,008 - TradingBot - INFO - Starting testnet trading bot with ETH/USDT DMR strategy
+2025-05-18 18:34:44,417 - TradingBot - INFO - Updated market data at 2025-05-18 18:34:36.009201
+2025-05-18 18:34:44,443 - TradingBot - INFO - Strategy execution completed
+2025-05-18 18:34:44,443 - TradingBot - INFO - Strategy execution completed
+2025-05-18 18:34:44,443 - TradingBot - INFO - Waiting 1524 seconds for next update
+2025-05-18 19:00:12,368 - TradingBot - INFO - Updated market data at 2025-05-18 19:00:08.413321
